@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactjs/react-tutorial.git"
+    "url": "https://github.com/flado/react-tutorial.git"
   },
   "keywords": [
     "react",
@@ -24,9 +24,9 @@
   ],
   "author": "petehunt",
   "bugs": {
-    "url": "https://github.com/reactjs/react-tutorial/issues"
+    "url": "https://github.com/flado/react-tutorial/issues"
   },
-  "homepage": "https://github.com/reactjs/react-tutorial",
+  "homepage": "https://github.com/flado/react-tutorial",
   "engines" : {
     "node" : "0.12.x"
   }
